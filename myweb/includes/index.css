@@ -1,0 +1,201 @@
+* {
+  font-family: century;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #bbfce8, #faf1ad, #f6c3e4);
+}
+
+.nav-item {
+  font-size: 1.5vw;
+}
+
+.navbar-nav,
+.mr-auto {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+
+footer {
+  color: blue;
+  padding: 1px 10px;
+  text-align: center;
+  background-image: linear-gradient(to bottom left, #fdfec3, #cfe6f2, #fac3d6);
+  border-radius: 2.5vw;
+}
+
+.map {
+  width: 100%;
+  height: 85%;
+}
+
+.contact_icon {
+  font-size: 4vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+.boxx {
+  border: 1px ridge rgb(70, 5, 130);
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.mynametext {
+  margin-top: 0.5vw;
+  font-size: 2.5vw;
+}
+
+.credit {
+  border: 2px groove rgb(160, 48, 3);
+  border-radius: 3vw;
+  font-size: 2vw;
+  padding: 0.5vw;
+  color: rgb(70, 2, 45);
+}
+
+.dashbtn {
+  font-size: 2vw;
+  border-radius: 1.5vw;
+  margin: 0.75vw;
+}
+
+.timehead {
+  text-transform: capitalize;
+  font-size: 4vw;
+  color: rgb(16, 5, 76);
+  text-align: center;
+}
+.add{
+  font-size:2.1vw;
+  color:green;
+}
+
+
+.pagehead {
+  color: orangered;
+  text-align: center;
+  text-decoration: underline;
+  margin: 0.5vw;
+  font-size: 4vw;
+}
+
+
+.box h2 {
+  color: rgb(6, 91, 26);
+  text-decoration: underline;
+  text-align: center;
+}
+
+.navigation {
+  padding: 1vw;
+  border: 2px groove rgb(188, 42, 2);
+  border-radius: 2vw;
+}
+
+
+.formh {
+  color: darkred;
+  font-size: 3vw;
+  text-align: center;
+  padding: 1vw 0px;
+}
+
+.docs {
+  margin: 2vw 1vw;
+  border: 2px ridge rgb(247, 7, 135);
+  border-radius: 2vw;
+}
+
+.dochead {
+  text-align: center;
+  color: rgb(110, 3, 157);
+  margin: 1vw 0px;
+  text-decoration: underline;
+}
+
+
+.bcahead {
+  text-align: center;
+  color: rgb(152, 3, 45);
+  margin-top: 3vw;
+  text-decoration: underline;
+}
+
+.docs img {
+  border: 2px ridge gold;
+  margin: 1vw;
+}
+
+
+.box1 {
+  border-radius: 2vw;
+  border: 2px solid darkblue;
+  margin: 0.5vw;
+  padding: 1vw;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.box1 p {
+  text-align: justify;
+  font-size: 1.25vw;
+  color: orangered;
+}
+
+.box1 h2 {
+  color: darkgreen;
+  font-size: 3vw;
+  text-align: center;
+}
+
+hr {
+  opacity: 1;
+  color: black !important;
+  border-top-width: 2px;
+}
+
+.sb{
+  border:red solid 2px;
+  padding: 1vw;
+  border-radius: 2vw;
+}
+
+.box2 {
+  border: yellow solid 2px;
+  padding: 1vw;
+  border-radius: 2vw;
+}
+
+.box2 img {
+  margin: 2%;
+}
+
+.box2 p {
+ color:indigo;
+ font-size: 2.25vw;
+ margin-bottom: 1vw;
+text-decoration: underline;
+}
+.con .add{
+color: #cf0759;
+font-size: 3.25vw;
+text-align: center;
+}
+.con .contact_icon{
+font-size: 10vw;
+}
+.con .map{
+  height: 30vw;
+}
+.con .dashbtn{
+  font-size:2.5vw
+}
+.workpara{
+  color: orangered;
+  font-size: 1.5vw;
+  text-align: justify;
+  padding: 1vw;
+}

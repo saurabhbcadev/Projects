@@ -1,0 +1,73 @@
+@media (max-width: 575px) {
+    .mynametext {
+        margin-top: 2vw;
+        font-size: 5.5vw;
+    }
+
+    .nav-item {
+        font-size: 4vw;
+        margin-left: 2.5vw;
+    }
+
+    .map {
+        height: 75%;
+    }
+
+    .contact_icon {
+        font-size: 10vw;
+    }
+
+    .credit {
+        font-size: 4.5vw;
+    }
+
+    .dashbtn {
+        font-size: 4vw;
+        margin: 1.2vw;
+        border-radius: 4vw;
+    }
+
+    .timehead {
+        font-size: 6.5vw;
+        margin-bottom: 3vw;
+
+    }
+
+    .box1 p {
+        font-size: 3vw;
+    }
+
+    .box1 h2 {
+        font-size: 6vw;
+    }
+
+    .box2 p {
+        font-size: 6vw;
+        margin-bottom: 2vw;
+    }
+
+    .add {
+        font-size: 4vw;
+    }
+
+    .con .map {
+        height: 50vw;
+    }
+
+    .con .dashbtn {
+        font-size: 3.5vw;
+    }
+
+    .con .d-flex {
+        flex-wrap: wrap;
+    }
+    .workpara{
+        font-size: 4vw;
+      }
+      .pagehead{
+        font-size: 10vw;
+      }
+      .formh {
+        font-size: 7vw;
+      }
+}
