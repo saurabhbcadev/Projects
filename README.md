@@ -1,4 +1,5 @@
 Websites 
 
 bpms - https://bpms.developersaurabh.xyz
-myweb - https://developersaurabh.xyz/index.php
+
+myweb - https://developersaurabh.xyz
