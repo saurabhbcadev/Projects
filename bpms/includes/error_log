@@ -1,0 +1,19 @@
+[08-Jul-2023 20:30:09 Asia/Kolkata] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2312886 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:09 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/develope/bpms/includes/connect.php on line 8
+[08-Jul-2023 20:30:24 Asia/Kolkata] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:24 Asia/Kolkata] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2313179 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:24 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:24 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/develope/bpms/includes/connect.php on line 8
+[08-Jul-2023 20:30:39 Asia/Kolkata] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:39 Asia/Kolkata] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=2312886 in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:39 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/develope/bpms/includes/connect.php on line 7
+[08-Jul-2023 20:30:39 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/develope/bpms/includes/connect.php on line 8
+[16-Jul-2023 18:05:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/develope/bpms/includes/bpms_function.php on line 951
+[16-Jul-2023 18:06:39 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/develope/bpms/includes/bpms_function.php on line 951
+[16-Jul-2023 12:42:16 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/develope/bpms/includes/bpms_function.php on line 955
+[16-Jul-2023 18:12:16 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /home/develope/bpms/includes/bpms_function.php on line 955
+[18-Jul-2023 13:08:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/develope/bpms/includes/bpms_function.php on line 431
+[22-Jul-2023 04:52:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/develope/bpms/includes/bpms_function.php on line 488
+[22-Jul-2023 10:26:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/develope/bpms/includes/bpms_function.php on line 470

@@ -1,0 +1,67 @@
+[08-Jul-2023 15:07:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:07:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:08:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:08:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:08:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:08:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:08:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:08:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:08:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:08:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:08:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:08:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:09:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:09:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:09:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:10:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:10:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:11:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:11:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:19:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:19:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:19:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:19:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:19:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:20:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:20:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 15:20:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 15:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 16:44:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 16:44:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 16:58:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 16:58:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[08-Jul-2023 16:59:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userapp.php on line 3
+[08-Jul-2023 16:59:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[08-Jul-2023 16:59:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userapp.php on line 3
+[08-Jul-2023 16:59:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[08-Jul-2023 16:59:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userapp.php on line 3
+[08-Jul-2023 16:59:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[08-Jul-2023 16:59:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userapp.php on line 3
+[08-Jul-2023 16:59:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[08-Jul-2023 17:00:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userapp.php on line 3
+[08-Jul-2023 17:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[08-Jul-2023 17:14:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/develope/bpms/user/userdash.php on line 3
+[08-Jul-2023 17:14:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 5
+[14-Jul-2023 03:19:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 5
+[17-Jul-2023 16:05:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userapp.php on line 8
+[17-Jul-2023 16:05:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/develope/bpms/includes/header1.php:1) in /home/develope/bpms/user/userdash.php on line 8
+[31-Jul-2023 08:22:41 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:22:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:23:00 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:23:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:24:39 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:24:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:24:42 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:24:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:25:35 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:25:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:26:39 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:26:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:26:49 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:26:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:33:28 UTC] PHP Warning:  require_once(includes/connect.php): failed to open stream: No such file or directory in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:33:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/connect.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/develope/bpms/user/userapp.php on line 43
+[31-Jul-2023 08:33:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/develope/bpms/user/userapp.php on line 44
+[31-Jul-2023 08:33:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/develope/bpms/user/userapp.php on line 45

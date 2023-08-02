@@ -1,0 +1,367 @@
+* {
+    font-family: century;
+}
+
+.navbar {
+    background-color: rgb(164, 221, 244);
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+.navbar-nav,
+.mr-auto {
+    flex: 1;
+    margin: auto !important;
+    display: flex;
+    justify-content: space-around;
+}
+
+.slide {
+    width: 100%;
+}
+
+
+body {
+    background-color: #f7e1f2;
+}
+
+.us {
+    text-decoration: underline;
+    color: crimson;
+}
+
+.about {
+    text-align: justify;
+    color: rgb(235, 7, 7);
+    font-size: 1.55vw;
+}
+
+.about_us {
+    margin: 0px 5px 15px 5px;
+    padding: 5px;
+}
+
+.box {
+    border: 2px solid sandybrown;
+    margin: 0px 4px 14px 4px;
+}
+
+
+
+footer {
+    color: blue;
+    padding: 1px 12px;
+    text-align: center;
+    background-color: #f9caa4;
+}
+
+.foot {
+    color: deeppink;
+    text-decoration: underline;
+}
+
+.last {
+    text-align: center;
+    color: red;
+}
+
+
+
+header, footer {
+    margin: 0px 2px;
+}
+
+.lastbox {
+    border: 2px groove rgb(64, 224, 252);
+}
+
+.credit {
+    border: 2px groove rgb(248, 186, 162);
+    font-size: 1.4rem;
+    color: rgb(110, 3, 71);
+}
+
+.imgbox {
+    border: 2px groove gold;
+    margin: 0.9%;
+}
+
+.admbox {
+    border: 2px groove #4ff444;
+    margin: 0.5%;
+    padding: 0.5%;
+}
+
+.service {
+    border: 2px ridge coral;
+    text-align: center;
+    color: rgb(112, 3, 100);
+    margin: 10px 0px;
+    padding: 10px;
+}
+
+.sr_para {
+    color: darkblue;
+    text-align: justify;
+    font-size: 1.25vw;
+}
+
+.admbox {
+    border: 2px groove rgb(64, 252, 120);
+}
+
+.srimg {
+    width: 22.9%;
+}
+
+.updateuser .fild {
+    margin: 0;
+}
+
+.updateuser .row {
+    margin-bottom: 1.5vw;
+}
+
+.updateuser .form-label {
+    color: crimson;
+}
+
+.modal-body {
+    padding: 2vw;
+}
+
+.modal-content {
+    background-color: rgb(252, 237, 203);
+}
+
+.heading {
+    font-size: 3.5vw;
+    text-align: center;
+}
+
+.logoimg {
+    width: 12%;
+}
+
+.logo1img {
+    width: 25%;
+}
+
+.shorts {
+    width: 22.9%;
+    height: 39vw;
+}
+
+.btnmore {
+    width: fit-content;
+    margin: 0.5vw 0px;
+    font-size: 1.5vw;
+}
+
+.bton {
+    width: fit-content;
+    margin: 8px 0px;
+    color: darkred;
+    font-size: 27px;
+}
+
+.ourservices {
+    font-size: 5vw;
+    color: rgb(25, 92, 20);
+    text-align: center;
+}
+
+.login {
+    background-color: #b5f8d4;
+    text-align: center;
+    color: rgb(113, 5, 113);
+    padding: 1vw 3vw;
+    border-radius: 20px;
+}
+
+.alogin {
+    background-color: rgb(255, 250, 152);
+    text-align: center;
+    color: rgb(115, 70, 3);
+    padding: 1vw 3vw;
+    margin: 0 3vw;
+    border-radius: 20px;
+}
+
+.head2 {
+    text-align: center;
+    color: darkgreen;
+    font-size: 2vw;
+}
+
+.usrdash {
+    background-color: #aff6da;
+    border-radius: 2vw;
+    color: maroon;
+    padding: 3vw;
+    text-transform: capitalize;
+}
+
+.admindh {
+    background-color: rgb(255, 250, 152);
+    border-radius: 20px;
+    padding: 30px;
+    text-transform: capitalize;
+}
+
+.dashsec {
+    border: 2px ridge rgb(130, 255, 80);
+    text-align: center;
+}
+
+.btnsr {
+    font-size: 1.5vw;
+}
+
+.mybtn {
+    font-size: 1.2vw;
+    border-radius: 1.5vw;
+}
+
+.dashbtn {
+    font-size: 1.3vw;
+    border-radius: 1.5vw;
+    margin: 1vw;
+}
+
+.tablebtn {
+    font-size: 1vw;
+    border-radius: 1vw;
+    margin: 0.2vw;
+    white-space: nowrap;
+}
+
+.signup {
+    background-color: #aff6da;
+    padding: 20px;
+    border-radius: 20px;
+    color: darkblue;
+}
+
+.fild {
+    margin: 1.5vw 3vw;
+    padding: 0.5vw;
+    width: 80%;
+}
+
+.bookapp {
+    background-color: #cbfaa1;
+    padding: 2vw;
+    border-radius: 20px;
+    color: rgb(198, 6, 79);
+}
+
+.barow {
+    padding-left: 6vw;
+}
+
+.uptab {
+    background-image: linear-gradient(to bottom left, #95f6c4, #cbfaa1, rgb(239, 252, 190));
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.bind {
+    border: 2px solid deeppink;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.updateapp, .updateapp .type {
+    font-size: 90%;
+}
+
+.loading {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+
+.loading .spinner-border {
+    display: block;
+}
+
+.apptab {
+    background-color: #aff6da;
+    padding: 25px;
+    border-radius: 20px;
+    text-transform: capitalize;
+}
+
+.table {
+    border: rgb(18, 3, 104) solid 0.25vw;
+    font-size: 1.4vw;
+    color: rgb(193, 53, 2);
+}
+
+
+
+td, tr, th {
+    border: rgb(214, 3, 3) solid 0.125vw;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bafld {
+    width: 75%;
+}
+
+.price {
+    color: blue;
+    margin-left: 10px;
+}
+
+.imgteam {
+    width: 75%;
+}
+
+.imgadmin {
+    width: 50%;
+}
+
+.enq {
+    width: 80%;
+    color: darkblue;
+    margin-left: 10%;
+}
+
+.form-check-label {
+    margin-left: 5px;
+    color: rgb(88, 50, 3);
+    margin-top: 10px;
+}
+
+.type {
+    color: darkmagenta;
+    margin-top: 10px;
+    font-size: 18px;
+    margin-left: 30%;
+}
+
+.bind input[type="checkbox"] {
+    margin-left: 10px;
+}
+
+.form-check-input {
+    margin-top: 13px;
+}
+
+.contact_icon {
+    font-size: 4vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.map {
+    width: 98%;
+    height: 85%;
+}

@@ -1,0 +1,130 @@
+@media (max-width: 575px) {
+    .address {
+        font-size: 1rem;
+    }
+
+    .contact_icon {
+        font-size: 10vw;
+    }
+
+    .map {
+        height: 75%;
+    }
+
+    .head2 {
+        font-size: 6vw;
+    }
+
+    .credit {
+        font-size: 1.1rem;
+    }
+
+    .about {
+        font-size: 3.1vw;
+    }
+
+    .sr_para {
+        font-size: 3vw;
+    }
+
+    .dashbtn {
+        font-size: 4vw;
+        border-radius: 3vw;
+        margin: 1.2vw;
+    }
+
+    .usrdash h4 {
+        font-size: 4.25vw;
+    }
+
+    .usrdash .row {
+        margin-top: 4vw;
+    }
+
+    .updateuser .col-md-6 {
+        margin-bottom: 4vw;
+    }
+
+    .usrdash {
+        text-align: center;
+    }
+
+    .tablebtn {
+        font-size: 2.3vw;
+        border-radius: 2vw;
+        margin: 0.2vw;
+        white-space: nowrap;
+    }
+
+    .table {
+        font-size: 3.5vw;
+    }
+
+    .updateuser {
+        margin: 0 3vw;
+    }
+
+    .btnmore {
+        margin: 1vw 0px;
+        font-size: 3vw;
+    }
+
+    .mybtn {
+        font-size: 4.5vw;
+        border-radius: 3vw;
+    }
+
+    .imgteam {
+        width: 50%;
+    }
+
+    .admdetail {
+        text-align: center;
+    }
+
+    .imgadmin {
+        width: 75%;
+    }
+
+    .heading {
+        font-size: 7vw;
+    }
+
+    .fild {
+        margin: 2vw 8vw;
+        padding: 1vw;
+    }
+
+    .btnsr {
+        font-size: 3.75vw;
+    }
+
+    .srimg {
+        width: 47.25%;
+    }
+
+    .logoimg {
+        width: 25%;
+    }
+
+    .logo1img {
+        width: 30%;
+    }
+
+    .shorts {
+        width: 47.25%;
+        height: 70vw;
+    }
+
+    .enqmsg {
+        margin-top: 2vw;
+    }
+
+    .ourservices {
+        font-size: 10vw;
+    }
+
+    .barow {
+        padding-left: 15vw;
+    }
+}

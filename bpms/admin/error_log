@@ -1,0 +1,2 @@
+[31-Jul-2023 08:38:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/develope/bpms/admin/appointment.php on line 43
+[31-Jul-2023 08:38:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/develope/bpms/admin/appointment.php on line 44
